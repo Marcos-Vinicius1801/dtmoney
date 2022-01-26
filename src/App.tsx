@@ -1,9 +1,14 @@
 import React from "react";
+import style from "styled-components";
+
+const Title = style.h1`
+color:#5429CC;
+`
 
 export function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <Title>Hello</Title>
     </div>
   );
 }
