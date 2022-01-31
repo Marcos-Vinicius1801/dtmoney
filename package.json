@@ -2,8 +2,9 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
-  "dependencies": { 
+  "dependencies": {
     "axios": "^0.25.0",
+    "polished": "^4.1.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-modal": "^3.14.4",

@@ -20,11 +20,11 @@ export function App() {
   return (
     <>
       <Header 
-          onOpenNewTransactionModal={ handleOpenNewTransactionModal }/>
+          onOpenNewTransactionModal={handleOpenNewTransactionModal}/>
       <Dashboard />
       <NewTransactionModal 
-          isOpen={ isNewTransactionModalOpen }
-          onRequestClose={ handleCloseNewTransactionModal }/>
+          isOpen={isNewTransactionModalOpen}
+          onRequestClose={handleCloseNewTransactionModal}/>
       <GlobalStyle />
     </>
   );
