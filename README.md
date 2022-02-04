@@ -12,7 +12,7 @@
 	Aplicação feita para controle de gastos por data, valor e categoria.  
 </p>
 
-<p align="center">
+<p align="left">
   Stack: <strong> Frontend :  React, Sass e styled components.</strong>
 </p>
 
